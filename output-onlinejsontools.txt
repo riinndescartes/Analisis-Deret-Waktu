@@ -1,0 +1,1 @@
+﻿TemporalData,TimeSeries,[array],true,10.3
